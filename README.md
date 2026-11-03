@@ -10,7 +10,7 @@ cs / eng / oss. Building tools for working with coding agents, and contributing 
 
 ## Founder
 
-[**KINQS**](https://kinqsradio.com): an independent music brand since 2024, spanning KINQS Records and KINQS Radio.
+[**KINQS**](https://kinqsradio.com): an independent music brand spanning KINQS Records and KINQS Radio. Partnered with District (Vancouver) since 2021.
 
 ## Maintaining
 
