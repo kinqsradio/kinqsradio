@@ -4,6 +4,8 @@
 
 cs / eng / oss. We build tools for working with coding agents and contribute to the projects we use.
 
+![Contribution map](https://ghchart.rshah.org/kinqsradio)
+
 ## Open source
 
 [VS Code](https://github.com/microsoft/vscode), [CPython](https://github.com/python/cpython), [Next.js](https://github.com/vercel/next.js) and [Ollama](https://github.com/ollama/ollama).
