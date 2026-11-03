@@ -14,12 +14,4 @@ cs / eng / oss. We build tools for working with coding agents and contribute to 
 - [**Orbyn Engineering**](https://github.com/kinqsradio/orbyn-engineering): a workbench that wraps coding CLIs in our skills.
 - [**Orbyn Skills**](https://github.com/kinqsradio/orbyn-fullstack-skills): our portable skill set for Codex and Claude Code.
 
-## How we think about the harness
-
-A model is only as good as the harness around it. Small, owned skills. Cost and effort set per repo. Work graded against tests the agent can't change. Memory only when you ask for it. Every PR discloses the tools and models used.
-
-## Where autonomy is heading
-
-Generating code is getting cheap, so verifying it is the real work. The agents worth trusting will be bounded, isolated and checkable, and the human's job moves from typing to deciding.
-
 [orbyn.dev](https://orbyn.dev/)
