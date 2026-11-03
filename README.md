@@ -6,9 +6,7 @@ cs / eng / oss. We build tools for working with coding agents and contribute to 
 
 ## Open source
 
-- [VS Code](https://github.com/microsoft/vscode) and [GitHub Pull Requests for VS Code](https://github.com/microsoft/vscode-pull-request-github)
-- [free-router](https://github.com/Lelekhoa1812/free-router)
-- [CPython](https://github.com/python/cpython), [Next.js](https://github.com/vercel/next.js) and [Ollama](https://github.com/ollama/ollama)
+[VS Code](https://github.com/microsoft/vscode), [CPython](https://github.com/python/cpython), [Next.js](https://github.com/vercel/next.js) and [Ollama](https://github.com/ollama/ollama).
 
 ## What we maintain
 
