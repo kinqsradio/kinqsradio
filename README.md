@@ -6,7 +6,7 @@ Software engineer, CS @ University of Melbourne. I contribute to [VS Code](https
 
 - [**Orbyn Planner**](https://github.com/kinqsradiollc/Orbyn): tasks, calendars, projects and docs with an AI assistant, on web, desktop and mobile.
 - [**Orbyn Engineering**](https://github.com/kinqsradio/orbyn-engineering): a workbench that wraps coding CLIs in our skills.
-- [**Orbyn Fullstack Skills**](https://github.com/kinqsradio/orbyn-fullstack-skills): our portable skill set for Codex and Claude Code.
+- [**Orbyn Skills**](https://github.com/kinqsradio/orbyn-fullstack-skills): our portable skill set for Codex and Claude Code.
 
 ## How we think about the harness
 
