@@ -4,7 +4,10 @@
 
 cs / eng / oss. We build tools for working with coding agents and contribute to the projects we use.
 
-![Contribution map](https://ghchart.rshah.org/kinqsradio)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinqsradio/kinqsradio/output/github-snake-dark.svg">
+  <img alt="Contribution map" src="https://raw.githubusercontent.com/kinqsradio/kinqsradio/output/github-snake.svg">
+</picture>
 
 ## Open source
 
