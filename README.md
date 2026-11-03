@@ -1,6 +1,8 @@
-# Hi, I'm Anh 👋
+# hello 🌏
 
-Software engineer, CS @ University of Melbourne. I'm an open-source contributor, including to [VS Code](https://github.com/microsoft/vscode), and I build tools for working with coding agents.
+**工程明日** · engineering tomorrow
+
+cs / eng / oss. Open-source contributors, including to [VS Code](https://github.com/microsoft/vscode), building tools for working with coding agents.
 
 ## What we maintain
 
