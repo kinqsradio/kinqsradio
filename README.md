@@ -2,7 +2,13 @@
 
 **工程明日** · engineering tomorrow
 
-cs / eng / oss. Open-source contributors, including to [VS Code](https://github.com/microsoft/vscode), building tools for working with coding agents.
+cs / eng / oss. We build tools for working with coding agents and contribute to the projects we use.
+
+## Open source
+
+- [VS Code](https://github.com/microsoft/vscode) and [GitHub Pull Requests for VS Code](https://github.com/microsoft/vscode-pull-request-github)
+- [free-router](https://github.com/Lelekhoa1812/free-router)
+- [CPython](https://github.com/python/cpython), [Next.js](https://github.com/vercel/next.js) and [Ollama](https://github.com/ollama/ollama)
 
 ## What we maintain
 
