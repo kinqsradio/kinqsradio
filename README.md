@@ -6,7 +6,7 @@ cs / eng / oss. building tools for working with coding agents, and contributing 
 
 ## open source
 
-[vs code](https://github.com/microsoft/vscode), [cpython](https://github.com/python/cpython), [next.js](https://github.com/vercel/next.js) and [ollama](https://github.com/ollama/ollama).
+[vscode](https://github.com/microsoft/vscode), [cpython](https://github.com/python/cpython), [next.js](https://github.com/vercel/next.js) and [ollama](https://github.com/ollama/ollama).
 
 ## founder
 
