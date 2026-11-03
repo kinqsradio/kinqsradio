@@ -16,6 +16,6 @@ cs / eng / oss. building tools for working with coding agents, and contributing 
 
 - [**orbyn planner**](https://github.com/kinqsradiollc/Orbyn): tasks, calendars, projects and docs with an ai assistant, on web, desktop and mobile.
 - [**orbyn engineering**](https://github.com/kinqsradio/orbyn-engineering): a workbench that wraps coding clis in orbyn skills.
-- [**orbyn skills**](https://github.com/kinqsradio/orbyn-fullstack-skills): a portable skill set for codex and claude code.
+- [**orbyn skills**](https://github.com/kinqsradio/orbyn-fullstack-skills): a full harness system for codex and claude code, built on a portable skill set.
 
 [orbyn.dev](https://orbyn.dev/)
