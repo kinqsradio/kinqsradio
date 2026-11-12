@@ -10,5 +10,3 @@
 ## open source
 
 contributing to the tools the world builds with: [vscode](https://github.com/microsoft/vscode), [cpython](https://github.com/python/cpython), [next.js](https://github.com/vercel/next.js) and [ollama](https://github.com/ollama/ollama). 600k+ github stars between them, and every fix we land goes to everyone who uses them.
-
-[github.com/orbyn-dev](https://github.com/orbyn-dev)
