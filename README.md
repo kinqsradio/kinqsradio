@@ -4,7 +4,7 @@
 
 ## founder
 
-- [**orbyn**](https://orbyn.dev): a family of local-first apps that sync end to end under one account, built so agents can work in them safely. still building.
+- [**orbyn**](https://orbyn.dev): local-first apps for working with coding agents, in development, nothing released yet.
 - [**kinqs**](https://kinqsradio.com): an independent music brand spanning kinqs records and kinqs radio. partnered with district (vancouver) since 2021, and with major labels sony music entertainment, universal music group and warner music group.
 
 ## open source
